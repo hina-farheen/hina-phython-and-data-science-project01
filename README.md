@@ -1,4 +1,4 @@
-# hina-phython-and-deep learning-project01
+# hina-python-and-deep learning-project01
 basic python and deep learning
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
